@@ -47,3 +47,9 @@ I'm a Mechatronics Engineering student at the National University of Colombia, w
   <img src= "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </span>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Andres-Felipe-Quenan&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Andres-Felipe-Quenan)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Andres-Felipe-Quenan&theme=material-palenight)](https://github.com/Andres-Felipe-Quenan)
+</div>
