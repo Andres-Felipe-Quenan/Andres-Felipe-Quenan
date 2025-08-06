@@ -52,4 +52,3 @@ I'm a Mechatronics Engineering student at the National University of Colombia, w
 
 [![](https://github-readme-stats.vercel.app/api?username=Andres-Felipe-Quenan&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Andres-Felipe-Quenan)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Andres-Felipe-Quenan&theme=material-palenight)](https://github.com/Andres-Felipe-Quenan)
-</div>
