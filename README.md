@@ -33,7 +33,6 @@ I'm a Mechatronics Engineering student at the National University of Colombia, w
   <img src="Img/Autocad.png" width="80"/>
   <img src="Img/Inventor.png" width="105"/>
   <img src="Img/Fusion.png" width="85"/>
-  <img src="Img/TIA.png" width="85"/>
   <img src="Img/Studio.jpg" width="85"/>
   <img src="Img/NX.png" width="85"/>
   <img src="Img/Matlab.png" width="85"/>
