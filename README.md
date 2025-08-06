@@ -37,7 +37,7 @@ I'm a Mechatronics Engineering student at the National University of Colombia, w
   <img src="Img/Studio.jpg" width="85"/>
   <img src="Img/NX.png" width="85"/>
   <img src="Img/Matlab.png" width="85"/>
-  <img src="Img/ABB.png" width="85"/>
+  <img src="Img/ABB.png" width="95"/>
   <img src="Img/Mplab.png" width="85"/>
 </p>
 
