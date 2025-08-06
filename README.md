@@ -29,10 +29,16 @@ I'm a Mechatronics Engineering student at the National University of Colombia, w
 </span>
 
 ### Tools
-<p align="center">
-  <img src="https://images.seeklogo.com/logo-png/48/1/autocad-logo-png_seeklogo-482394.png" alt="img1" width="80"/>
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/inventor_logo_autodesk-freelogovectors.net_.png" alt="img2" width="80"/>
-  <img src="https://www.softexia.com/wp-content/uploads/2024/04/Autodesk_Fusion_360.webp" alt="img3" width="60"/>
+<p>
+  <img src="Img/Autocad.png" width="80"/>
+  <img src="Img/Inventor.png" width="105"/>
+  <img src="Img/Fusion.png" width="85"/>
+  <img src="Img/TIA.png" width="85"/>
+  <img src="Img/Studio.jpg" width="85"/>
+  <img src="Img/NX.png" width="85"/>
+  <img src="Img/Matlab.png" width="85"/>
+  <img src="Img/ABB.png" width="85"/>
+  <img src="Img/Mplab.png" width="85"/>
 </p>
 
 ### IDE
